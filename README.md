@@ -43,6 +43,21 @@ To evaluate installed browser extensions, identify potentially suspicious or unn
 
 ---
 
+## 🛑 How Malicious Extensions Can Harm Users
+
+Malicious or poorly vetted browser extensions can:
+
+- **Track Browsing Activity:** Log your browsing history, search terms, or visited URLs.
+- **Steal Credentials:** Use form injection or keylogging to capture usernames and passwords.
+- **Inject Ads or Redirects:** Display unwanted advertisements or redirect to phishing websites.
+- **Hijack Sessions:** Access cookies or session data to impersonate logged-in users.
+- **Download Malware:** Trigger malicious file downloads or execute scripts on your system.
+- **Exploit Permissions:** Abuse elevated permissions (e.g., "read and change all your data") to monitor sensitive information.
+
+Being cautious and reviewing extension behaviour regularly helps protect against these threats.
+
+---
+
 ## 💡 Lessons Learned
 
 - Regularly auditing browser extensions is a good security practice.
@@ -53,5 +68,3 @@ To evaluate installed browser extensions, identify potentially suspicious or unn
 - Browser performance and security can improve after removing unnecessary extensions.
 
 ---
-
-
