@@ -1,0 +1,1 @@
+# Task_7_Identify_and_Remove_Suspicious_Browser_Extensions
