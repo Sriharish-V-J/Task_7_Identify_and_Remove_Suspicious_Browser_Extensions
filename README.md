@@ -38,7 +38,7 @@ To evaluate installed browser extensions, identify potentially suspicious or unn
 2. Review each extension’s permissions and origin.
 3. Use third-party tools and forums to assess credibility.
 4. Remove unused or questionable extensions.
-5. Restart browser and noted performance differences.
+5. Restart the browser and note performance differences.
 6. Document findings and changes made.
 
 ---
